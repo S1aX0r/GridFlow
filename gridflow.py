@@ -387,5 +387,5 @@ class GridFlow(App):
 
 if __name__ == "__main__":
     app = GridFlow()
-    app.run(size=(80,24))
+    app.run()
 
